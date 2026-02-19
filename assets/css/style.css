@@ -702,7 +702,7 @@ footer p {
   }
 
   .menu-btn {
-    display: block;
+    display: none;
   }
 
   .hero-content {
@@ -746,3 +746,4 @@ footer p {
     padding: 0.8rem 1.8rem;
   }
 }
+
